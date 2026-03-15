@@ -6,8 +6,14 @@
 
 <h1>How did we build it?</h1>
 
+<h1>Challenges</h1>
 
+<h1>Accomplishments</h1>
 
+<h1>What we've learned</h1>
 
+<h1>Future?</h1>
+
+<h1>Resources</h1>
 [1]https://oceana.org/blog/why-does-so-much-ocean-remain-unexplored-and-unprotected/
 [2]https://www.mtsmuv.org/active-manned-submersibles-by-depth
