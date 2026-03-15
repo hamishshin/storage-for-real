@@ -11,15 +11,16 @@
 <p> We both had similar challenges, being waking up early while going to bed late and lots of bugs and issues in our code. However we were able to push through these issues with the great mentors and valuable lessons and skills we had access to during the 36 hours. During our creation we were stuck at the physics. We weren't exactly sure on how to meassure the yield strength of an object given there are so many variables to it. In order to generate a solution, we had to attack it in a simpler way. We focused more on specific objects rather than prompting the user for one. Then, in order to test if our simmulation was accurate, we ran the simmulation and researched real results with similar conditions. </p>
 
 <h1>Accomplishments</h1>
-<p>We are proud of the final product produced by ourselves through the hardships and circumstances that were brought upon us. We've created what we believe is an original, quality prototype that can be developed for future use. I believe our final product of the </p>
-  
-  Talk about perserverence, having only 2 members (getting slimed), learning pygame, successful in a final submission.</p>
+<p>We are proud of the final product produced by ourselves through the hardships and circumstances that were brought upon us. We've created what we believe is an original, quality prototype that can be developed for future use. Throughout our 36 hours, we accomplished learning pygame, perservering through difficult circumstances, and trying to compete with others. I believe our final product of the simmulation and successfully submitting it for judgement is a result of our hard work and dedication which we both believe is a great accomplishment.</p>
 
 <h1>What we've learned</h1>
-<p>During our research and project production we learned valuable life skills and information regarding oceanic issues. Communication, leadership, teamwork, coding, and technical skills are all required in the process of this 32 hour hackathon. After a while, Hamish finally figured out how to work pygame and install it, learning it while we went. Hunter gained valuable leadership skills as he facilitated group interaction and objectives. </p>
+<p>During our research and project production we learned valuable life skills and information regarding oceanic issues. Communication, leadership, teamwork, coding, and technical skills are all required in the process of this 32 hour hackathon. After a while, Hamish finally figured out how to work pygame and install it, learning it while we went. Hunter gained valuable leadership skills as he facilitated group interaction and objectives. Overall, this experience has taught us both valuable lessons that we might not have learned elsewhere.</p>
 
 <h1>Future of Crushr?</h1>
-<p>In the future,</p>
+<p>In the future, we hope to add more varaibles to account for different types of objects. We wish to improve the accuracy of our simmulation with real world experiments, learning physics, and having a better understanding of how different materials withstand compression. We could use the help of skilled professionals in coding and physics to create a better simmulation that's more accurate and provides helpful results so that we can explore the wildly unkown sea containing multitudes of undiscovered organisms. </p>
+
+<h1>Acknoledgements</h1>
+<P>Special thanks to all the staff, mentors, sponsors, and leadership that helped us brainstorm and eliminate issues during our work and allow this experience to happen.s</P>
 
 <h1>Resources</h1>
 [1]https://oceana.org/blog/why-does-so-much-ocean-remain-unexplored-and-unprotected/
