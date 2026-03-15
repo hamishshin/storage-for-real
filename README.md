@@ -11,7 +11,7 @@
 <p> We both had similar challenges, being waking up early while going to bed late and lots of bugs and issues in our code. However we were able to push through these issues with the great mentors and valuable lessons and skills we had access to during the 36 hours. During our creation we were stuck at screen selection and organization of our dictionaries. Our code quickly began to get clunky and difficult to organize, this made our 5 different screen selections to make the code nearly indecipherable. We needed to and continue to require better ways at organizing, simply meaning we needed to use less variables and just make the million different functions simpler and and more task-oriented. Originally, we wanted to prompt the user any different kind of object to input and return the crushing depth at which it would crush, unfortunately it was quite complicated and we didnt like the results we got since it wasnt as visual as we had intended.  </p>
 
 <h1>Accomplishments</h1>
-<p>We are proud of the final product we have produced. We've created a fun and interactive simulation of the undeniable strength of the pressures of the depths. Throughout our 36 hours, we were able to augment AI into our research and organization, perservering through frusterating bugs, and trying to compete with others. I believe our product of the simmulation is not quite finished but is a fun framework of what it could be if we continued to work on it.</p>
+<p>We are proud of the final product we have produced. We've created a fun and interactive simulation of the undeniable strength of the pressures of the depths. Throughout our 36 hours, we were able to augment AI into our research and organization, perservering through frusterating bugs, and trying to compete with others. We believe our product of the simmulation is not quite finished but is a fun framework of what it could be if we continued to work on it.</p>
 
 <h1>What we've learned</h1>
 <p>During our research and project production we learned valuable life skills and information regarding oceanic issues. Communication, leadership, teamwork, coding, and technical skills are all required in the process of this 32 hour hackathon. After a while, Hamish finally figured out how to work pygame and install it, learning it while we went. Hunter gained valuable leadership skills as he facilitated group interaction and objectives. Overall, this experience has taught us both valuable lessons that we might not have learned elsewhere.</p>
@@ -20,7 +20,7 @@
 <p>In the future, we hope to add more varaibles to account for different types of objects. We wish to improve the accuracy of our simmulation with real world experiments, learning physics, and having a better understanding of how different materials withstand compression. We could use the help of skilled professionals in coding and physics to create a better simmulation that's more accurate and provides helpful results so that we can explore the wildly unkown sea containing multitudes of undiscovered organisms. </p>
 
 <h1>Acknoledgements</h1>
-<P>Special thanks to all the staff, mentors, sponsors, and leadership that helped us brainstorm and eliminate issues during our work and allow this experience to happen.s</P>
+<P>Special thanks to all the staff, mentors, sponsors, and leadership that helped us brainstorm and eliminate issues during our work and allow this experience to happen.</P>
 
 <h1>Resources</h1>
 [1]https://oceana.org/blog/why-does-so-much-ocean-remain-unexplored-and-unprotected/
