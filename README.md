@@ -11,7 +11,9 @@
 <p>During our creation we were stuck at the physics. We weren't exactly sure on how to meassure the yield strength of an object given there are so many variables to it. In order to generate a solution, we had to attack it in a simpler way. We focused more on specific objects rather than prompting the user for one. Then, in order to test if our simmulation was accurate, we ran the simmulation and researched real results with similar conditions. </p>
 
 <h1>Accomplishments</h1>
-<p>Talk about perserverence, having only 2 members (getting slimed), learning pygame, successful in a final submission.</p>
+<p>We are proud of the final product produced by ourselves through the hardships and circumstances that were brought upon us. We've created what we believe is an original, quality prototype that can be developed for future use. 
+  
+  Talk about perserverence, having only 2 members (getting slimed), learning pygame, successful in a final submission.</p>
 
 <h1>What we've learned</h1>
 <p>Talk about general oceanic problems, pygame, </p>
