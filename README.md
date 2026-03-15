@@ -5,14 +5,19 @@
 <p>DeepSeaSim is an interactive simulation of the force of pressure underwater of given materials, objects, and even organisms. We can first select the shape, object, or organism, then the material, if not an organism. The program then calculates or simmulates the depth at which it will crack under deep underwater pressure. With DeepSeaSim, we can test different materials and change our understanding of how effective different materials and shapes will be given harsh depths. With this simmulation, we can actively study the effects of different depths on different materials in order to find a cheaper, more efficient, or a better submersible overall.</p>
 
 <h1>How did we build it?</h1>
+<p></p>
 
 <h1>Challenges</h1>
+<p></p>
 
 <h1>Accomplishments</h1>
+<p></p>
 
 <h1>What we've learned</h1>
+<p></p>
 
 <h1>Future?</h1>
+<p></p>
 
 <h1>Resources</h1>
 [1]https://oceana.org/blog/why-does-so-much-ocean-remain-unexplored-and-unprotected/
